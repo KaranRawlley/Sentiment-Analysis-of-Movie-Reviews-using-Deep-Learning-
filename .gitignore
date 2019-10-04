@@ -2,9 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+reviews.csv
 data/
 glove.6B.100d.txt
+my_model.h5
+senti.h5py
+path_to_my_model.h5
 
 # C extensions
 *.so
