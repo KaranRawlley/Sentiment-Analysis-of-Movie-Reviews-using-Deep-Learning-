@@ -5,6 +5,7 @@ __pycache__/
 reviews.csv
 data/
 glove.6B.100d.txt
+glove.6B.300d.txt
 my_model.h5
 senti.h5py
 path_to_my_model.h5
